@@ -1,4 +1,1 @@
-# Admins Inherit All Permissions
-* @scala-workshop/admins
-# 2025 Organizers Inherit All Permissions
-* @scala-workshop/2025-organizers
+.github/CODEOWNERS       @scala-workshop/admins
